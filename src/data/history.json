@@ -1,0 +1,26 @@
+[
+  {
+    "role": "Frontend Developer",
+    "organisation": "Perceptions Technologies",
+    "startDate": "Feb, 2022",
+    "endDate": "Present",
+    "experiences": ["Worked on E-commer websites", "Developed and maintained responsive websites using React.js, JavaScript, and Tailwind CSS"],
+    "imageSrc": "history/pt.png"
+  },
+  {
+    "role": "Junior Frontend Developer ",
+    "organisation": "Perceptions Technologies",
+    "startDate": "Nov, 2021",
+    "endDate": "Jan, 2022",
+    "experiences": ["Gained practical experience in working within an organizational structure.", "Enhanced personal technical skills and knowledge through hands-on experience."],
+    "imageSrc": "history/pt.png"
+  },
+  {
+    "role": "Intern Frontend ",
+    "organisation": "Internpe",
+    "startDate": "Sep, 2021",
+    "endDate": "Oct, 2021",
+    "experiences": ["Developed and optimized responsive web applications using HTML, CSS, and JavaScript.", "Delivered seamless user experiences by implementing interactive features across multiple projects"],
+    "imageSrc": "history/Ip.png"
+  }
+]
