@@ -1,0 +1,50 @@
+[
+  {
+    "title": "The Ekaiv",
+    "imageSrc": "projects/project.png",
+    "description": "This is a multi vendor e-commer website.",
+    "skills": ["React", "Express", "Node", "MongoDB"],
+    "demo": "https://www.theekaiv.in/",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Clothing Brand",
+    "imageSrc": "projects/project.png",
+    "description": "This is a single vendor clothing e-commer website.",
+    "skills": ["HTML", "CSS"],
+    "demo": "https://priyanshukumawat.github.io/e-commerce-clothing/",
+    "source": "https://github.com/Priyanshukumawat/e-commerce-clothing.git"
+  },
+  {
+    "title": "Coffee Shop",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the languages by building an app.",
+    "skills": ["HTML", "CSS"],
+    "demo": "https://priyanshukumawat.github.io/my-awesome-repo/",
+    "source": "https://github.com/Priyanshukumawat/Coffe-Shop.git"
+  },
+  {
+    "title": "Quiz App",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the Javascript.",
+    "skills": ["HTML", "CSS", "Javascript"],
+    "demo": "https://priyanshukumawat.github.io/quiz-app/",
+    "source": "https://github.com/Priyanshukumawat/quiz-app.git"
+  },
+  {
+    "title": "Length Converter",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made for length conversions.",
+    "skills": ["HTML", "CSS", "Javascript"],
+    "demo": "https://priyanshukumawat.github.io/length-converter./",
+    "source": "https://github.com/Priyanshukumawat/length-converter..git"
+  },
+  {
+    "title": "Guess The Number",
+    "imageSrc": "projects/project.png",
+    "description": "This is a game project to learn the Javascript.",
+    "skills": ["HTML", "CSS", "Javascript"],
+    "demo": "https://github.com/Priyanshukumawat/guess-the-number.git",
+    "source": "https://github.com/Priyanshukumawat/guess-the-number.git"
+  }
+]
